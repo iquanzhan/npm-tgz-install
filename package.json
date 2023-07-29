@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json5": "^2.2.3",
+    "shelljs": "^0.8.5"
+  }
+}
